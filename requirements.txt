@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.1
+torchvision>=0.16
+numpy
+pandas
+scikit-learn>=1.1
+matplotlib
+opencv-python-headless
+Pillow
+pydicom
+tqdm
+tensorboard
+streamlit
+fastapi
+uvicorn
+python-multipart
+reportlab
+--extra-index-url https://download.pytorch.org/whl/cpu
